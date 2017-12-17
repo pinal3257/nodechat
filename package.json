@@ -1,0 +1,10 @@
+{
+  "name": "beerlocker",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "~4.1.1",
+    "mongoose": "^4.10.2",
+    "socket.io": "^2.0.4"
+  }
+}
