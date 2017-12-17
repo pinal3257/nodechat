@@ -1,6 +1,6 @@
 var express = require("express");
 var app = express();
-var port = 3001;
+var port = process.env.PORT || 3001;
 
 //app.get("/", function(req, res){
 //    res.send("It works!");
